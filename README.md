@@ -1,6 +1,6 @@
 <h2>Olá Olá, Seja Bem-vindo :)</h2>
 
-<p>Meu nome é Isadora Vanço, atualmente curso Ciência da Computação na Universidade Estadual de Londrina.</p>
+<p>Meu nome é Isadora Vanço, sou formada em Ciência da Computação pela Universidade Estadual de Londrina.</p>
 <p>Aqui você encontrará alguns projetinhos e estudos que fiz ao longo da minha trajetória.</p>
 
 <div style="display: inline_block">
@@ -10,7 +10,6 @@
 <hr>
 <p>Você pode entrar em contato comigo através das redes sociais:</p>
 <div>
-  <a href="https://instagram.com/isadoravanco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/isadora-vanco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:isadoravanco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
